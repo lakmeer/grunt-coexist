@@ -1,0 +1,31 @@
+{
+  "name": "grunt-coexist",
+  "version": "0.0.2",
+  "description": "Compile source files together regardless of language",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lakmeer/grunt-coexist.git"
+  },
+  "keywords": [
+    "compile",
+    "build",
+    "coffeescript",
+    "livescript"
+  ],
+  "author": "lakmeer (github.com/lakmeer)",
+  "license": "MIT",
+  "dependencies": {
+    "LiveScript": "~1.2.0",
+    "coffee-script": "~1.6.3"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-lsc": "~1.0.1",
+    "LiveScript": "~1.2.0",
+    "prelude-ls": "~1.0.3"
+  }
+}
