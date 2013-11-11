@@ -21,6 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "LiveScript": "~1.2.0",
+    "prelude-ls": ">=1.0",
     "coffee-script": "~1.6.3"
   },
   "devDependencies": {
