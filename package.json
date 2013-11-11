@@ -1,6 +1,6 @@
 {
   "name": "grunt-coexist",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compile source files together regardless of language",
   "main": "index.js",
   "scripts": {
